@@ -7,11 +7,13 @@
 }
 
 .img-responsive {
-  width: 760px;
-  height: 360px;
-  max-height: 360px;
+  width: 100%;
 }
 
 .row {
   align-self: center;
+}
+
+body {
+  background-color: #e7e7e7
 }

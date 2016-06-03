@@ -9,7 +9,7 @@ $(document).ready(function() {
     var season =parseInt($('#season option:selected').val());
     var destination;
     var total = weather + activites + active + fun + color + season
-debugger;
+
     if ("!season"){
       if (total >= 6 && total <15) {
         $('#italy').show();
