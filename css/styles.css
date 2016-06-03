@@ -1,0 +1,17 @@
+#vegas, #italy, #germany {
+  display: none;
+}
+
+#vacation {
+  text-align: center;
+}
+
+.img-responsive {
+  width: 760px;
+  height: 360px;
+  max-height: 360px;
+}
+
+.row {
+  align-self: center;
+}
